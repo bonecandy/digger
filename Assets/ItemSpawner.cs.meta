@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2f2ef6349fe45b44f9d51ee8690c870c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - OrePrefab: {fileID: 158448, guid: b083eff5f458cc24a8a5ebadc4d6c352, type: 2}
+  - borderTop: {instanceID: 0}
+  - borderBottom: {instanceID: 0}
+  - borderLeft: {instanceID: 0}
+  - borderRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
